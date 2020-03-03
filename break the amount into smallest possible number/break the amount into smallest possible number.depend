@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583020459 source:c:\users\drops\onedrive\desktop\projects c\break the amount into smallest possible number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
